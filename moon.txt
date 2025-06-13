@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-hi
-=======
+
 ganesh how are you man
->>>>>>> bugfix
+
